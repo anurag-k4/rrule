@@ -1,7 +1,7 @@
 rrule.js
 ========
 
-[![Known Vulnerabilities](https://snyk.io/test/github/anurag-k4/rrule/badge.svg?targetFile=package.json)](https://snyk.io/test/github/anurag-k4/rrule?targetFile=package.json)
+[![Known Vulnerabilities](https://snyk.io/test/github/anurag-k4/rrule/badge.svg)](https://snyk.io/test/github/anurag-k4/rrule)
 
 **Library for working with recurrence rules for calendar dates.**
 
